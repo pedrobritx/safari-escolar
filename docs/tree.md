@@ -1,8 +1,8 @@
 # Árvore do repositório — Safari Escolar
-*Gerado em 2026-02-18 20:41:27Z (UTC)*
+*Gerado em 2026-11-09 04:28:13Z (UTC)*
 
 ```
-Safari-Escolar/
+safari-escolar/
 ├── .env.example
 ├── .gitignore
 ├── LICENSE.md
