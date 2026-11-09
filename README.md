@@ -1,5 +1,7 @@
 # Safari Escolar 🔍
 
+> **Status: pausado em 9 de novembro de 2026.** Sem desenvolvimento ativo por enquanto. Nada foi removido, e o trabalho pode ser retomado a partir daqui.
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-ISC-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
